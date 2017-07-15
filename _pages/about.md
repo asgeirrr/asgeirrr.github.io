@@ -1,6 +1,6 @@
 ---
 title: About Me
-permalink: about
+permalink: /about/
 feature_row:
   - image_path: http://python.net/~goodger/projects/graphics/python/newlogo-repro.png
     alt: "Python Logo"

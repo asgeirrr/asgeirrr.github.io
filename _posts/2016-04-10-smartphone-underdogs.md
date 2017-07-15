@@ -1,7 +1,7 @@
 ---
 title:  "The Implications of Betting on the Smartphone Underdogs"
 date:   2016-04-10
-categories: online mobile
+tags: online mobile
 ---
 
 Have you seen the endless parade of Android phones just like the other these past few years? 
@@ -91,4 +91,48 @@ I currently use a Blackberry Classic as my main device. So I shall compare the C
 
 ![The Blackberry Classic and its unified inbox called the Hub.]({{ site.url }}/assets/images/blackberry-classic.png){: .align-center}
 
+At the first glance, Jolla and Classic could not be more different. 
+Jolla has no physical buttons and Blackberry Classic has 40 of them. 
+Jolla is focused on open-source technologies and Blackberry is strictly proprietary. 
+But there are some similarities.
 
+Both Sailfish and Blackberry 10 OS experience feel much more powerful and faster then Android or the other platforms. 
+Both are gesture-based, although I think the gestures are more sensible and simpler on Sailfish. 
+The Classic makes up for that by the excellent use of the optical trackpad and keyboard shortcuts.
+
+The excellent and true multitasking and having live app tiles on the home screen is awesome. 
+You can have a YouTube video playing in the background while dealing with your e-mail, much like on a desktop OS.
+
+Both platforms can run Android apps although Sailfish can run any Android app I tried whereas there are some Android apps 
+that do not run on the Classic. Android apps cannot run in the background properly on the Classic. 
+But Blackberry used to be quite big and the selection of native apps is wider. 
+All in all, app selection on both OSs is adequate to my needs.
+
+Using Blackberry’s latest smartphones brings unmatched productivity to your mobile life. 
+Having a unified inbox of all your messages and social networks is an excellent idea. 
+You can reply to a message no matter what app it is from and staying on top of your communications is easy. 
+Moreover, this article is written entirely on the keyboard of Blackberry Classic. I would never wrote it on Jolla. 
+If you thought hardware keyboards are obsolete, give it a try.
+
+There are many useful features and tricks that boost your productivity on these phones but exhaustive lists can we found elsewhere.
+
+## Final Message
+
+Why did I write this article? Out of frustration mainly. 
+But also to point out there are alternatives worthy of our attention. 
+My final message is the following: *Innovation will never happen in the current mobile industry duopoly.* 
+We need fresh ideas and these can happen only outside of iOS and Android.
+
+Every attempt to improve the Android experience failed in my opinion (the interfaces presented by HTC, Samsung etc. 
+are always worse then the vanilla Android).
+
+There must be a better way to operate a smartphone and there is, most people just don’t know about it.
+
+We must look elsewhere and support companies that struggle to make a change in mobile.
+
+Miss the Blackberry keyboard? Give the Classic or the Passport a try. 
+Are you intrigued by Jolla’s beautiful gesture interface and their mission? 
+Pick up a phone running Sailfish OS. You will be just as productive on these devices or even more than you are now, 
+despite of what you have heard. Last but not least, you will be happier and you will truly like your device for a change.
+
+Thank you for reading this far;)

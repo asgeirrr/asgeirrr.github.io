@@ -1,14 +1,14 @@
 ---
 title:  "Thank you Google, it's been fun"
 date:   2015-03-16
-categories: online web
+tags: online web
 ---
 
 Remember those days when Google services have been compatible with just about everyone who supported open standards? 
 Not anymore. Slowly, one by one, each service is being centralized to the browser or the respective Android app made—of course—by Google. 
 Let’s have a few examples.
 
-![Google Logo]({{ site.url }}/assets/images/google.jpeg)
+![Google Logo](/assets/images/google.jpeg)
 
 We are forced to move away from Gtalk—which is quite compatible with the open XMPP protocol—to Hangouts. 
 Hangouts are web-only and the so-called desktop version is tied to the Chrome browser, again made by Google. 
